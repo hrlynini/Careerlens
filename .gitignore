@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+data/
+.streamlit/secrets.toml
+node_modules/
+frontend/dist/
+careerlens.zip
+
+# Secret keys - never commit
+.env
+
+# Local layout backups
+backups/
